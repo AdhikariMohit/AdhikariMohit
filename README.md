@@ -20,7 +20,7 @@ I’m **Mohit Singh Adhikari**, a passionate **software developer** and **conten
 
 ### 🌟 **Portfolio Projects**:
 
-#### 1. [Snake Game (Pygame)](https://github.com/MohitAdhikari/your_snake_game_repo)
+#### 1. [Snake Game (Pygame)] (https://github.com/AdhikariMohit/Snake-game))
 A classic Snake game built using Pygame with enhanced features such as smooth movement, score tracking, and more.  
 *Key features:*
 - Smooth curves and realistic movement
